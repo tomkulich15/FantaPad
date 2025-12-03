@@ -1,15 +1,3 @@
-Tohle je naprosto klíčová věc pro **Hack Club Blueprint**. Kvalitní `README.md` je to, co prodává tvůj projekt. Porotci často nemají čas zkoumat každý detail v kódu, ale README si přečtou.
-
-Připravil jsem ti profesionální strukturu v angličtině (protože soutěž je mezinárodní).
-
-**Co s tím udělat:**
-
-1.  Zkopíruj text níže.
-2.  Vlož ho do souboru s názvem `README.md` (vytvoř ho vedle svého `code.py` nebo na GitHubu).
-3.  **Důležité:** Na místa, kde píšu `[INSERT IMAGE HERE]`, musíš nahrát skutečné fotky (screenshot z KiCadu, fotka 3D modelu, fotka hotové desky). Bez fotek to není ono\!
-
------
-
 # 🍊 FantaPad
 
 > **A refreshing macro pad for video editing, designed around the Fanta aesthetics.**
