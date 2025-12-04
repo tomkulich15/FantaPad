@@ -26,4 +26,8 @@ Here is the Schematic Picture for the Pad
 3. Upload Code:
    - Copy the provided `code.py` to the root of the `CIRCUITPY` drive.
 
+I will also put images of the 3D print files here:
+![3DPartTop](FantaPadTop.png)
+![3DPartDown](FantaPadDown.png)
+
 
