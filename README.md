@@ -13,4 +13,4 @@ The pad feature a RGB lighting
 
 #PCB Design:
 The PCB was designed in KiCad
-![PCB Design](assets/image-FantaPadPCB.png)
+![PCB Design](assets/FantaPadPCB.png)
