@@ -18,7 +18,7 @@ Here is the Schematic Picture for the Pad
 ![Scheamtic Design](FantaPadSchematic.png)
 
 
-#Tutorial how to download the python to the board
+Tutorial how to download the python to the board
 1. Install CircuitPython:
    - Hold the `BOOT` button on the XIAO RP2040, plug it into your PC, and copy the `.uf2` file to the `RPI-RP2` drive.
 
@@ -28,9 +28,10 @@ Here is the Schematic Picture for the Pad
 3. Upload Code:
    - Copy the provided `code.py` to the root of the `CIRCUITPY` drive.
 
-   
-4.I will also put images of the 3D print files here
+I will also put images of the 3D print files here:
+Here is the down part:
 ![3DPartDown](FantaPadDown.png)
+Here is the top part:
 ![3DPartTop](FantaPadTop.png)
 
 
