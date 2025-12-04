@@ -16,3 +16,12 @@ The PCB was designed in KiCad
 ![PCB Design](FantaPadPCB.png)
 Here is the Schematic Picture for the Pad
 ![Scheamtic Design](FantaPadSchematic.png)
+
+1. **Install CircuitPython**: 
+   - Hold the `BOOT` button on the XIAO RP2040, plug it into your PC, and copy the `.uf2` file to the `RPI-RP2` drive.
+2. **Install KMK**:
+   - Download the [KMK Firmware](https://github.com/KMKfw/kmk_firmware) and copy the `kmk` folder to the `lib` folder on your `CIRCUITPY` drive.
+3. **Upload Code**:
+   - Copy the provided `code.py` to the root of the `CIRCUITPY` drive.
+
+
