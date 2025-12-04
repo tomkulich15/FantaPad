@@ -3,4 +3,4 @@ my surname is Fanta so i started thinking about the name of the name for the pad
 
 now let get to the Features of the FantaPad
 #Features
-it have 6x buttons 1
+it have 6x buttons 1x rotary encoder with push button
