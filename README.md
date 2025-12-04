@@ -17,6 +17,11 @@ The PCB was designed in KiCad
 Here is the Schematic Picture for the Pad
 ![Scheamtic Design](FantaPadSchematic.png)
 
+I will also put images of the 3D print files here:
+Here is the down part:
+![3DPartDown](FantaPadDown.png)
+Here is the top part:
+![3DPartTop](FantaPadTop.png)
 
 Tutorial how to download the python to the board
 1. Install CircuitPython:
@@ -27,12 +32,6 @@ Tutorial how to download the python to the board
 
 3. Upload Code:
    Copy the provided `code.py` to the root of the `CIRCUITPY` drive.
-
-I will also put images of the 3D print files here:
-Here is the down part:
-![3DPartDown](FantaPadDown.png)
-Here is the top part:
-![3DPartTop](FantaPadTop.png)
 
 
 
