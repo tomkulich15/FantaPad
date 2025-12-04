@@ -20,13 +20,13 @@ Here is the Schematic Picture for the Pad
 
 Tutorial how to download the python to the board
 1. Install CircuitPython:
-   - Hold the `BOOT` button on the XIAO RP2040, plug it into your PC, and copy the `.uf2` file to the `RPI-RP2` drive.
+   Hold the `BOOT` button on the XIAO RP2040, plug it into your PC, and copy the `.uf2` file to the `RPI-RP2` drive.
 
 2. Install KMK:
-   - Download the KMK Firmware (https://github.com/KMKfw/kmk_firmware) and copy the `kmk` folder to the `lib` folder on your `CIRCUITPY` drive.
+   Download the KMK Firmware (https://github.com/KMKfw/kmk_firmware) and copy the `kmk` folder to the `lib` folder on your `CIRCUITPY` drive.
 
 3. Upload Code:
-   - Copy the provided `code.py` to the root of the `CIRCUITPY` drive.
+   Copy the provided `code.py` to the root of the `CIRCUITPY` drive.
 
 I will also put images of the 3D print files here:
 Here is the down part:
