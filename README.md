@@ -11,7 +11,7 @@ layer 2: Zoom
 layer 3: Scrub mode
 The pad feature a RGB lighting
 
-#PCB Design:
+PCB Design:
 The PCB was designed in KiCad
 ![PCB Design](FantaPadPCB.png)
 Here is the Schematic Picture for the Pad
@@ -29,7 +29,7 @@ Here is the Schematic Picture for the Pad
    - Copy the provided `code.py` to the root of the `CIRCUITPY` drive.
 
    
-#I will also put images of the 3D print files here
+4.I will also put images of the 3D print files here
 ![3DPartDown](FantaPadDown.png)
 ![3DPartTop](FantaPadTop.png)
 
