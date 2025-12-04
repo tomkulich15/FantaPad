@@ -53,9 +53,6 @@ The project is built around the XIAO RP2040 with a direct-pin connection (no mat
 
 The PCB was designed in **KiCad**. It features a compact layout with 3D-printable mounting holes.
 
-*(Replace this text with a screenshot of your PCB from KiCad 3D Viewer)*
-`![PCB 3D Render](./images/pcb_render.png)`
-
 ## 🚀 Firmware Setup
 
 This board runs on **CircuitPython** with **KMK Firmware**.
@@ -76,8 +73,6 @@ This board runs on **CircuitPython** with **KMK Firmware**.
 
 The case is designed in **Tinkercad** to resemble the aesthetics of a soda crate/bottle.
 
-*(Replace this text with a screenshot of your Tinkercad model)*
-`![Case Design](./images/case_design.png)`
 
 ## 📜 License
 
