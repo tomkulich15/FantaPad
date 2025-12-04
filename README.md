@@ -25,6 +25,7 @@ Here is the Schematic Picture for the Pad
    - Download the [KMK Firmware](https://github.com/KMKfw/kmk_firmware) and copy the `kmk` folder to the `lib` folder on your `CIRCUITPY` drive.
 3. Upload Code:
    - Copy the provided `code.py` to the root of the `CIRCUITPY` drive.
+   
 #I will also put images of the 3D print files here
 .
 .
