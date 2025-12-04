@@ -30,7 +30,8 @@ Here is the Schematic Picture for the Pad
 .
 .
 .
-![3DPartTop](FantaPadTop.png)
 ![3DPartDown](FantaPadDown.png)
+![3DPartTop](FantaPadTop.png)
+
 
 
