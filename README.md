@@ -13,18 +13,18 @@ The pad feature a RGB lighting
 
 PCB Design:
 The PCB was designed in KiCad
-![PCB Design](assets/FantaPadPCB.png)
+![PCB Design](Photos/FantaPadPCB.png)
 Here is the Schematic Picture for the Pad
-![Scheamtic Design](assets/FantaPadSchematic.png)
+![Scheamtic Design](Photos/FantaPadSchematic.png)
 
 I will also put images of the 3D print files here:
 Here is the down part:
-![3DPartDown](Stlfiles/FantaPadDown.png)
+![3DPartDown](Photos/FantaPadDown.png)
 Here is the top part:
-![3DPartTop](Stlfiles/FantaPadTop.png)
+![3DPartTop](Photos/FantaPadTop.png)
 
 FantaPad Completed image:
-![3DComplete](assets/FantaPadComplete.png)
+![3DComplete](Photos/FantaPadComplete.png)
 
 Tutorial how to download the python to the board
 1. Install CircuitPython:
