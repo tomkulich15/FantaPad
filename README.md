@@ -23,6 +23,9 @@ Here is the down part:
 Here is the top part:
 ![3DPartTop](Stlfiles/FantaPadTop.png)
 
+FantaPad Completed image:
+![3DComplete](assets/FantaPadComplete.png)
+
 Tutorial how to download the python to the board
 1. Install CircuitPython:
    Hold the `BOOT` button on the XIAO RP2040, plug it into your PC, and copy the `.uf2` file to the `RPI-RP2` drive.
