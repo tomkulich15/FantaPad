@@ -24,7 +24,7 @@ Here is the top part:
 ![3DPartTop](Photos/FantaPadTop.png)
 
 Here is in real life photo:
-![Complete](Photos/IMG_5750.png)
+![Complete](Photos/IMG_5750.jpeg)
 
 FantaPad Completed image:
 ![3DComplete](Photos/FantaPadComplete.png)
